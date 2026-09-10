@@ -1,0 +1,6 @@
+{
+  "name": "Omech HRM",
+  "description": "Configuration-driven HRM platform for Indian pipe manufacturing with real-time attendance, muster-roll matrix, shift rosters, configurable leave policies, and statutory payroll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
